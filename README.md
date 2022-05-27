@@ -10,10 +10,9 @@ In order to better inform Bellabeat's marketing strategy, the company's cofounde
   3. How could these trends help influence Bellabeat marketing strategy?</b>
   
 <h2>Data</h2>
-The dataset is made up of external data not provided by Bellabeat. It is a series of observations of 30 individual fitness device users from which the Bellabeat marketing team hopes to extrapolate information about its own consumers. 
+The dataset is made up of external data not provided by Bellabeat. It is a series of observations of 30 individual fitness device users from which the Bellabeat marketing team hopes to extrapolate information about its own consumers. <br><br>
 
-**Note**
-This case study is an analysis of a public datset of 30 individal Fitbit users' tracking behaviors as recorded by their wearable fitness technology devices. This dataset can be found [here](https://www.kaggle.com/datasets/arashnic/fitbit).
+To approximate this data, this case study is an analysis of a public datset of 30 individal Fitbit users' tracking behaviors as recorded by their wearable fitness technology devices. This dataset can be found [here](https://www.kaggle.com/datasets/arashnic/fitbit).
 
 <h3>Limitations</h3>
 30 users is the lower threshold for the sample size of a study whose results have statistical significance. Ideally, the data team would find and study a dataset with a higher number of users so that the insights derived from the data would have stronger validity.  
