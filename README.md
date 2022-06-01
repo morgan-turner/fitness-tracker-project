@@ -16,7 +16,7 @@ The dataset is made up of external data not provided by Bellabeat. It is a serie
 To approximate this data, this case study is an analysis of a public datset of 30 individal Fitbit users' tracking behaviors as recorded by their wearable fitness technology devices. This dataset can be found [here](https://www.kaggle.com/datasets/arashnic/fitbit).
 
 <h3>Limitations</h3>
-30 users is the lower threshold for the sample size of a study whose results have statistical significance. Ideally, the data team would find and study a dataset with a higher number of users so that the insights derived from the data would have stronger validity.  
+30 users is the lower threshold for the sample size of a study whose results have statistical significance. Ideally, the data team would find and study a dataset with a higher number of users so as to avoid sampling bias.  
 
 <h3>Data Preparation</h3>
 [...]
