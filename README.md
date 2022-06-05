@@ -13,7 +13,9 @@ In order to better inform Bellabeat's marketing strategy, the company's cofounde
 <h2>Data</h2>
 The dataset is made up of external data not provided by Bellabeat. It is a series of observations of 30 individual fitness device users from which the Bellabeat marketing team hopes to extrapolate information about its own consumers. <br><br>
 
-To approximate this data, this case study is an analysis of a public datset of 30 individal Fitbit users' tracking behaviors as recorded by their wearable fitness technology devices over a period of two months. This dataset can be found [here](https://www.kaggle.com/datasets/arashnic/fitbit).
+To approximate this data, this case study is an analysis of a public datset of 30 individal Fitbit users' tracking behaviors as recorded by their wearable fitness technology devices over a period of two months. This data provides users' calories burned, activity intensity, step count, and sleep behavior, aggregated over days, hours and minutes. This dataset can be found [here](https://www.kaggle.com/datasets/arashnic/fitbit).
+
+To better focus this analysis we will look for trends in user data across fitness level, sleep length, and step count aggregated daily. If further analysis is needed, we may look for activity trends throughout the day, such as whether users are more active in the morning or evening. 
 
 <h3>Limitations</h3>
 30 users is the lower threshold for the sample size of a study whose results have statistical significance. Ideally, the data team would find and study a dataset with a higher number of users so as to avoid sampling bias.  
