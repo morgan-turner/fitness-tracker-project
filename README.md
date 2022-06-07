@@ -18,7 +18,9 @@ To approximate this data, this case study is an analysis of a public datset of 3
 To better focus this analysis we will look for trends in user data across fitness level, sleep length, and step count aggregated daily. If further analysis is needed, we may look for activity trends throughout the day, such as whether users are more active in the morning or evening. 
 
 <h3>Limitations</h3>
-30 users is the lower threshold for the sample size of a study whose results have statistical significance. Ideally, the data team would find and study a dataset with a higher number of users so as to avoid sampling bias.  
+30 users is the lower threshold for the sample size of a study whose results have statistical significance. Ideally, the data team would find and study a dataset with a higher number of users so as to avoid sampling bias.  <br><br>
+
+Additionally, some of the provided data--specifically, the weight log files--are unusable for analysis due to user inconsistency. Out of 30 users, only 2 were consistent in adding their daily weight to the app throughout the 30 day sampling period, so unfortunately this analysis will be unable to provide insights on how fitness tracker wearers use their devices for weightloss. 
 
 <h3>Data Preparation</h3>
 [...]
