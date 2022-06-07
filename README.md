@@ -6,9 +6,10 @@ Bellabeat is a fictional manufacturer of health-focused technology products for 
 
 <h3>Stakeholder Goals</h3>
 In order to better inform Bellabeat's marketing strategy, the company's cofounder and Chief Creative Officer would like to understand how consumers use smart devices across the market and find out how that may translate to the way Bellabeat consumers use their devices. They want to understand the following:<br><br>
-<b>1. What are some trends in smart device usage?<br>
-  2. How could these trends apply to Bellabeat customers?<br>
-  3. How could these trends help influence Bellabeat marketing strategy?</b>
+<b>
+1. What are some trends in smart device usage?<br>
+2. How could these trends apply to Bellabeat customers?<br>
+3. How could these trends help influence Bellabeat marketing strategy?</b>
   
 <h2>Data</h2>
 The dataset is made up of external data not provided by Bellabeat. It is a series of observations of 30 individual fitness device users from which the Bellabeat marketing team hopes to extrapolate information about its own consumers. <br><br>
@@ -23,13 +24,12 @@ To better focus this analysis we will look for trends in user data across fitnes
 Additionally, some of the provided data--specifically, the weight log files--are unusable for analysis due to user inconsistency. Out of 30 users, only 2 were consistent in adding their daily weight to the app throughout the 30 day sampling period, so unfortunately this analysis will be unable to provide insights on how fitness tracker wearers use their devices for weightloss. 
 
 <h3>Data Preparation</h3>
-[...]
+For the most straightforward analysis, data was arranged according to granularity. Daily data (activity level, daily steps, sleep hours) was compiled together and hourly data was analyzed separately to assess chronotype trends across users. This analysis will focus on overall user habits over days and hours, rather than the more granular minute-by-minute observations recorded by the fitness device. <br><br>
 
-For the most straightforward analysis, data was arranged according to granularity. Daily data (activity level, daily steps, sleep hours) was compiled together and hourly data was analyzed separately to assess chronotype trends across users. 
+Data was inspected, organized, and cleaned in Microsoft Excel before being loaded into SQL to produce new joined tables for visualization in Tableau.  
 
 <h2>Analysis</h2>
-For the purposes of this analysis, the question of searching for trends across the user base is extremely broad: this warrants more discussion of the stakeholder's goals and interests. However, for now, there are a number of interesting data points here. For example, in the daily data we can look at the date, total steps, total distance, distance over activity type, minutes of activity type, calories burned, minutes asleep, and minutes in bed.
-Some further questions I'll try to answer in regards to everyday use of the fitness tracker are: <br> <br>
+For the purposes of this analysis, the question of searching for trends across the user base is extremely broad: this warrants more discussion of the stakeholder's goals and interests. However, for now, there are a number of interesting data points here. For example, in the daily data we can look at the date, total steps, total distance, distance over activity type, minutes of activity type, calories burned, minutes asleep, and minutes in bed. Some further questions I'll try to answer in regards to everyday use of the fitness tracker are: <br> <br>
 1. Is there a correlation between overall activity (using step count as a proxy) and calories burned? <br>
 2. Is there a correlation between users step count, activity minutes, or activity level and their sleep minutes?<br>
   2a. What percentage of users are logging <i>only</i> very active to fairly active minutes? Are these users tracking any sleep minutes? If not, this may indicate that these users are wearing their devices for workouts and then removing them the rest of the time.<br>
