@@ -23,9 +23,16 @@ To better focus this analysis we will look for trends in user data across fitnes
 <h3>Data Preparation</h3>
 [...]
 
-<h2>Analysis</h2>
+For the most straightforward analysis, data was arranged according to granularity. Daily data (activity level, daily steps, sleep hours) was compiled together and hourly data was analyzed separately to assess chronotype trends across users. 
 
-[...]
+<h2>Analysis</h2>
+For the purposes of this analysis, the question of searching for trends across the user base is extremely broad: this warrants more discussion of the stakeholder's goals and interests. However, for now, there are a number of interesting data points here. For example, in the daily data we can look at the date, total steps, total distance, distance over activity type, minutes of activity type, calories burned, minutes asleep, and minutes in bed.
+Some further questions I'll try to answer in regards to everyday use of the fitness tracker are: <br> <br>
+1. Is there a correlation between overall activity (using step count as a proxy) and calories burned? <br>
+2. Is there a correlation between users step count, activity minutes, or activity level and their sleep minutes?<br>
+  2a. What percentage of users are logging <i>only</i> very active to fairly active minutes? Are these users tracking any sleep minutes? If not, this may indicate that these users are wearing their devices for workouts and then removing them the rest of the time.<br>
+3. What chronotype are fitness tracker users? Are they more active in the morning, afternoon, or evening? <br>
+4. Do users prefer rigorous workouts or more lowkey forms of exercise like walking?<br>
 
 <h2>Discussion</h2>
 
