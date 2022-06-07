@@ -33,8 +33,8 @@ For the purposes of this analysis, the question of searching for trends across t
 1. Is there a correlation between overall activity (using step count as a proxy) and calories burned? <br>
 2. Is there a correlation between overall activity (using step count as a proxy) and their sleep minutes?<br>
   2a. What percentage of users are logging <i>only</i> very active to fairly active minutes? Are these users tracking any sleep minutes? If not, this may indicate that these users are wearing their devices for workouts and then removing them the rest of the time.<br>
-3. What chronotype are fitness tracker users? Are they more active in the morning, afternoon, or evening? This can be analyzed with users' activity hourly step count. <br>
-4. Do users prefer rigorous workouts or more lowkey forms of exercise like walking? To answer this question we'll look at activity type over minutes. <br>
+3. What chronotype are fitness tracker users? Are they more active in the morning, afternoon, or evening? This can be analyzed with users' hourly step count. <br>
+4. Do users prefer rigorous workouts or more lowkey forms of exercise like walking? To answer this question we'll look at activity type over minutes and determine which activity group (very active, fairly active, lightly active) has the highest representation in the dataset. We'll likely exclude the sedentary activity type as this is the time when users are likely at rest or sleeping. <br>
 
 <h2>Discussion</h2>
 
