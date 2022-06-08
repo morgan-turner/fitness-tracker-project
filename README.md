@@ -26,7 +26,7 @@ Additionally, some of the provided data, such as the weight log files, are unusa
 <h3>Data Preparation</h3>
 For the most straightforward analysis, data was arranged according to granularity. Daily data (activity level, daily steps, sleep hours) was compiled together and hourly data was analyzed separately to assess chronotype trends across users. This analysis will focus on overall user habits over days and hours, rather than the more granular minute-by-minute observations recorded by the fitness device. <br><br>
 
-Data was inspected, organized, and cleaned in Microsoft Excel before being loaded into SQL to produce new joined tables for visualization in Tableau.  
+Data was inspected, organized, and cleaned in Microsoft Excel before being loaded into Tableau for visualization.
 
 <h2>Analysis</h2>
 For the purposes of this analysis, the question of searching for trends across the user base is extremely broad: this warrants more discussion of the stakeholder's goals and interests. However, for now, there are a number of interesting data points here. For example, in the daily data we can look at the date, total steps, total distance, distance over activity type, minutes of activity type, calories burned, minutes asleep, and minutes in bed. Some further questions I'll try to answer in regards to everyday use of the fitness tracker are: <br> <br>
