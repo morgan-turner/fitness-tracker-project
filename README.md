@@ -32,9 +32,9 @@ Data was inspected, organized, and cleaned in Microsoft Excel before being loade
 For the purposes of this analysis, the question of searching for trends across the user base is extremely broad: this warrants more discussion of the stakeholder's goals and interests. However, for now, there are a number of interesting data points here. For example, in the daily data we can look at the date, total steps, total distance, distance over activity type, minutes of activity type, calories burned, minutes asleep, and minutes in bed. Some further questions I'll try to answer in regards to everyday use of the fitness tracker are: <br> <br>
 1. How much time do users spend doing activities throughout the day? <br>
 2. Do users prefer rigorous workouts or more lowkey forms of exercise like walking? <br>
-3. What chronotype are fitness tracker users? Are they more active in the morning, afternoon, or evening?<br>
+3. Are users more active in the morning, afternoon, or evening?<br>
 4. Are users with higher activity levels (using step count as a proxy) getting more sleep?<br>
-5. Does the user pool contian more sedentary, lightly active, fairly active, or very active users?<br>
+5. Does the user pool contain more sedentary, lightly active, fairly active, or very active users?<br>
 6. What percentage of users are logging <i>only</i> fairly active to very active minutes? Are these users tracking any sleep minutes? If not, this may indicate that these users are wearing their devices for workouts and then removing them the rest of the time.<br>
 
 
