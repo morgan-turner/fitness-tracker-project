@@ -38,13 +38,14 @@ For the purposes of this analysis, the question of searching for trends across t
 
 <h2>Discussion</h2>
 
-Initial analysis of user activity shows that users are primarily sedentary when wearing fitness devices. This observation makes logical sense, since sleep takes up one third of a 24-hour period. Many users may have sedentary jobs to account for the remeinder of inactive time. 
+Initial analysis of user activity shows that users are primarily sedentary when wearing fitness devices. This observation makes logical sense, since sleep takes up one third of a 24-hour period. Many users may have sedentary jobs to account for the remainder of inactive time. 
 
 <img width="700" alt="user activity summary" src="https://user-images.githubusercontent.com/92185928/172508444-26322cb1-1b9f-46a5-8b96-c902f1db5bdf.png">
 
 Eliminating sedentary time from the analysis gives a better picture of what type of activity users prefer: light activity, moderate activity, or very active (rigorous) activity. Users clearly have a preference for light activity like walking, yoga, or pilates. These exercises are almost universally beneficial, low-impact, and easy to incorporate into one's daily routine. These are good options for people seeking to build a more active lifestyle, especially for those exploring how to live more healthfully for the first time. Interestingly, more rigorous workouts like running, kickboxing, or HIIT are the next most popular workout type and make up nearly 10% of user activity outside of sedentary behavior. These users want to work up a sweat! 
 
-<img width="700" alt="preferred activity type" src="https://user-images.githubusercontent.com/92185928/172508467-86c87bd6-0b35-4967-a97b-76603cef2eee.png">
+<img width="750" alt="activity" src="https://user-images.githubusercontent.com/92185928/172512463-b84308f8-1a83-4e23-8158-83a5f7c68069.png">
+
 
 
 
