@@ -38,7 +38,7 @@ For the purposes of this analysis, the question of searching for trends across t
 
 <h2>Discussion</h2>
 
-Initial analysis of user activity shows that users are primarily sedentary when wearing fitness devices. This observation makes logical sense, since sleep takes up one third of a 24-hour period. Many users may have sedentary jobs to account for the remainder of inactive time. 
+Initial analysis of user activity shows that users are primarily sedentary when wearing fitness devices. This observation makes logical sense, since sleep takes up one third of a 24-hour period and users are likely wearing the devices all the time. Many users may have sedentary jobs to account for the remainder of inactive time. 
 
 <img width="700" alt="user activity summary" src="https://user-images.githubusercontent.com/92185928/172508444-26322cb1-1b9f-46a5-8b96-c902f1db5bdf.png">
 
