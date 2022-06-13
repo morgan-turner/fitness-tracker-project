@@ -43,11 +43,11 @@ For the purposes of this analysis, the question of searching for trends across t
 
 Initial analysis of user activity shows that users are primarily sedentary when wearing fitness devices. The average user is sedentary for 81% of the day, lightly active for 16% of the day, anf fairly or very active for 1% and 2% of the day, respectively. This observation makes logical sense, since sleep takes up one third of a 24-hour period and users are likely wearing their devices all the time. Many users may additionally have sedentary office or administrative jobs, which could account for the remainder of inactive time. 
 
-<img width="700" alt="user activity summary" src="https://user-images.githubusercontent.com/92185928/172508444-26322cb1-1b9f-46a5-8b96-c902f1db5bdf.png">
+<img width="600" alt="user activity summary" src="https://user-images.githubusercontent.com/92185928/172508444-26322cb1-1b9f-46a5-8b96-c902f1db5bdf.png">
 
 Eliminating sedentary time from the analysis gives a better picture of what type of activity users prefer when they choose to work out: light activity, moderate activity, or very active (rigorous) activity. As demonstrated in the chart below, users clearly have a preference for light activity like walking, yoga, or pilates. These exercises are almost universally beneficial, low-impact, and easy to incorporate into one's daily routine. These are good options for people seeking to build a more active lifestyle, especially for those exploring how to live more healthfully for the first time. Interestingly, more rigorous workouts like running, kickboxing, or HIIT are the next most popular workout type and make up nearly 10% of user activity outside of sedentary behavior. These users want to work up a sweat! 
 
-<img width="750" alt="activity" src="https://user-images.githubusercontent.com/92185928/172512463-b84308f8-1a83-4e23-8158-83a5f7c68069.png">
+<img width="625" alt="activity" src="https://user-images.githubusercontent.com/92185928/172512463-b84308f8-1a83-4e23-8158-83a5f7c68069.png">
 
 Analysis of average daily step count over a 24 hour period serves as a measure for what time of day users prefer to be active. The two most popular times of day for users to be active are in the middle of the day (perhaps on lunch break from work) and immediately after the workday, with the highest average user activity recorded during the 6:00pm hour. Users were rarely active during the late night and very early morning hours when people are usually asleep. Overall activity records reflects a diurnal circadian rhythm, with users moving around during the daylight hours generally, and peak activity points during the lunch hour (noon to 2pm) and immediately after work (5pm to 7pm).
 
