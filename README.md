@@ -53,7 +53,7 @@ Analysis of average daily step count over a 24 hour period serves as a measure f
 
 <img width="800" alt="activity per hour" src="https://user-images.githubusercontent.com/92185928/172989376-aa458add-e473-44c0-ad00-2bc3a475c2ea.png">
 
-The range of average step count across the entire user pool is fairly narrow. The user with the highest average step count took 674.3 steps per day and the user with the lowest average step count took only 38.6 steps per day. The median user took 307.8 steps per day on average. These low average step counts (a mile is about 2,000 steps) suggest that users may be spending a day or two taking high step counts and remaining sedentary for the rest of the week.
+Regarding the range of average step counts across the entire user pool: the user with the highest average step count took 674.3 steps per day and the user with the lowest average step count took only 38.6 steps per day. The median user took 307.8 steps per day on average. These low average step counts (a mile is about 2,000 steps) suggest that users may be spending a day or two taking high step counts and remaining sedentary for the rest of the week. Additionally the extreme tail of the lower range of step counts is unusually low for an able bodied adult and may indicate that these users are removing their fitness trackers for extended periods of time during the week.
 
 <img width="800" alt="min max med" src="https://user-images.githubusercontent.com/92185928/173281384-310e1177-3729-41ce-809a-ff58cad271ba.png">
 
