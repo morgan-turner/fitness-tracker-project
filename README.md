@@ -12,7 +12,7 @@ In order to better inform Bellabeat's marketing strategy, the company's cofounde
 3. How could these trends help influence Bellabeat marketing strategy?</b>
   
 <h2>Data</h2>
-The dataset is made up of external data not provided by Bellabeat. It is a series of observations of 30 individual fitness device users from which the Bellabeat marketing team hopes to extrapolate information about its own consumers. <br><br>
+The dataset is made up of external data not provided by Bellabeat. It is a series of observations of 33 individual fitness device users from which the Bellabeat marketing team hopes to extrapolate information about its own consumers. <br><br>
 
 To approximate this data, this case study is an analysis of a public datset of 33 individal Fitbit users' tracking behaviors as recorded by their wearable fitness technology devices over a period of two months. This data provides users' calories burned, activity intensity, step count, and sleep behavior, aggregated over days, hours and minutes. This dataset can be found [here](https://www.kaggle.com/datasets/arashnic/fitbit).
 
