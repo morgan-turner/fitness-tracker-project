@@ -33,9 +33,10 @@ For the purposes of this analysis, the question of searching for trends across t
 1. How much time do users spend doing activities throughout the day? <br>
 2. Do users prefer rigorous workouts or more lowkey forms of exercise like walking? <br>
 3. Are users more active in the morning, afternoon, or evening?<br>
-4. Are users with higher activity levels (using step count as a proxy) getting more sleep?<br>
+4. What range of activity level was observed among participants?<br>
 5. Does the user pool contain more sedentary, lightly active, fairly active, or very active users?<br>
-6. What percentage of users are logging <i>only</i> fairly active to very active minutes? Are these users tracking any sleep minutes? If not, this may indicate that these users are wearing their devices for workouts and then removing them the rest of the time.<br>
+6. How long are users sleeping at night? <br>
+7. What percentage of users are logging <i>only</i> fairly active to very active minutes? Are these users tracking any sleep minutes? If not, this may indicate that these users are wearing their devices for workouts and then removing them the rest of the time.<br>
 
 
 <h2>Discussion</h2>
@@ -50,8 +51,9 @@ Eliminating sedentary time from the analysis gives a better picture of what type
 
 Analysis of average daily step count over a 24 hour period serves as a measure for what time of day users prefer to be active. The two most popular times of day for users to be active are in the middle of the day (perhaps on lunch break from work) and immediately after the workday, with the highest average user activity recorded during the 6:00pm hour. Users were rarely active during the late night and very early morning hours when people are usually asleep. Overall activity records reflects a diurnal circadian rhythm, with users moving around during the daylight hours generally, and peak activity points during the lunch hour (noon to 2pm) and immediately after work (5pm to 7pm).
 
-<img width="885" alt="activity per hour" src="https://user-images.githubusercontent.com/92185928/172989376-aa458add-e473-44c0-ad00-2bc3a475c2ea.png">
+<img width="750" alt="activity per hour" src="https://user-images.githubusercontent.com/92185928/172989376-aa458add-e473-44c0-ad00-2bc3a475c2ea.png">
 
+The range of average step count across the entire user pool is fairly narrow. The user with the highest average step count took 674.3 steps per day and the user with the lowest average step count took only 38.6 steps per day. The median user took 307.8 steps per day on average. These low average step counts (a mile is about 2,000 steps) suggest that users may be spending a day or two taking high step counts and remaining sedentary for the rest of the week.
 
 <h2>Recommendations</h2>
 
