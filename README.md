@@ -36,7 +36,7 @@ For the purposes of this analysis, the question of searching for trends across t
 4. What range of activity level was observed among participants?<br>
 5. Does the user pool contain more sedentary, lightly active, fairly active, or very active users?<br>
 6. How long are users sleeping at night? What percentage of time in bed is spent sleeping? (How well are Fitbit users sleeping?)<br>
-7. WAre any users logging <i>only</i> fairly active to very active minutes? Are these users tracking any sleep minutes? If not, this may indicate that these users are wearing their devices only for workouts and then removing them the rest of the time.<br>
+7. Are any users logging <i>only</i> fairly active to very active minutes? Are these users tracking any sleep minutes? If not, this may indicate that these users are wearing their devices only for workouts and then removing them the rest of the time.<br>
 
 
 <h2>Discussion</h2>
