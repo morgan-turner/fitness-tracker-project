@@ -53,11 +53,11 @@ Analysis of average daily step count over a 24 hour period serves as a measure f
 
 <img width="800" alt="activity per hour" src="https://user-images.githubusercontent.com/92185928/172989376-aa458add-e473-44c0-ad00-2bc3a475c2ea.png">
 
-Regarding the range of average step counts across the entire user pool: the user with the highest average step count took 674.3 steps per day and the user with the lowest average step count took only 38.6 steps per day. The median user took 307.8 steps per day on average. These low average step counts (a mile is about 2,000 steps) suggest that users may be spending a day or two taking high step counts and remaining sedentary for the rest of the week. Additionally the extreme tail of the lower range of step counts is unusually low for an able bodied adult and may indicate that these users are removing their fitness trackers for extended periods of time during the week.
+Regarding the range of average step counts across the entire user pool: the user with the highest average step count took 16,040 steps per day and the user with the lowest average step count took only 916 steps per day. The median user took 7,283 steps per day on average. The most popular day for users to be active was Saturday, with an average of 344 steps across the user pool. The least popular day for activity was Sunday, with 288 steps on average among users.
 
-<img width="800" alt="min max med" src="https://user-images.githubusercontent.com/92185928/173281384-310e1177-3729-41ce-809a-ff58cad271ba.png">
+Step counts were aggregated according to the recommendations found [here](https://www.medicinenet.com/how_many_steps_a_day_is_considered_active/article.htm). Users overall tended to favor the less active portion of the spectrum of activity, with 24% of users considered sedentary (<5000 average daily steps), 27% lightly active (5,000 to 7,499 steps), 27% somewhat active (7,500 to 9,999 steps), 15% active (>10,000 steps) and 6% very active (>12,500 steps). 
 
-The most popular day for users to be active was Saturday, with an average of 344 steps across the user pool. The least popular day for activity was Sunday, with 288 steps on average among users.
+<img width="800" alt="user activity" src="https://user-images.githubusercontent.com/92185928/174416275-dd96e6b1-6c90-41fa-ad40-5996fe8e429c.png">
 
 <h2>Recommendations</h2>
 
