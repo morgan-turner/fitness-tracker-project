@@ -68,4 +68,5 @@ Based on these findings, some recommendations for the Bellabeat marketing team a
 2. Issue discount codes for users to invite their friends to buy Bellabeat products and get fit together.
 3. Keep track of users' overall activity levels and celebrate when a user moves into a higher category (ie from sedentary to lightly active).
 4. Push step count reminders to users on days and times when they are already likely to want to be active: Saturdays and weekdays after work.
-5. For users who are interested in weight loss, perhaps the introduction of a digital scale that pairs with the Belabeat device via Bluetooth would help users stay consistent about tracking their weight and remove the barrier of needing to add this data to the device manually.
+5. Reward users who consistently meet daily and weekly step count goals.
+6. For users who are interested in weight loss, perhaps the introduction of a digital scale that pairs with the Bellabeat device via Bluetooth would help users stay consistent about tracking their weight and remove the barrier of needing to add this data to the device manually.
