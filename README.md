@@ -16,7 +16,7 @@ The dataset is made up of external data not provided by Bellabeat. It is a serie
 
 To approximate this data, this case study is an analysis of a public datset of 33 individuals whose activity was recorded by their Fitbit devices over a period of two months. This data provides users' calories burned, activity intensity, step count, and sleep behavior, aggregated over days, hours and minutes. This dataset can be found [here](https://www.kaggle.com/datasets/arashnic/fitbit).
 
-To better focus this analysis we will look for trends in user data across fitness level, sleep length, and step count aggregated daily. If further analysis is needed, we may look for activity trends throughout the day, such as whether users are more active in the morning or evening. 
+To better focus this analysis we will look for trends in user data across fitness level, general useage, and step count aggregated daily. We will also look for activity trends throughout the day, such as whether users are more active in the morning or evening. 
 
 <h3>Limitations</h3>
 30 users is the lower threshold for the sample size of a study whose results have statistical significance. Ideally, the data team would find and study a dataset with a higher number of users so as to avoid sampling bias.  <br><br>
@@ -24,7 +24,7 @@ To better focus this analysis we will look for trends in user data across fitnes
 Additionally, some of the provided data, such as the weight log files, are unusable for analysis due to user inconsistency. Out of 33 users, only 2 were consistent in manually adding their daily weight to the app throughout the 30 day sampling period, so unfortunately this analysis will be unable to provide insights on how fitness tracker wearers may be using their devices for weight loss. 
 
 <h3>Data Preparation</h3>
-For the most straightforward analysis, data was arranged according to granularity. Daily data (activity level, daily steps, sleep hours) was compiled together and hourly data was analyzed separately to assess chronotype trends across users. This analysis will focus on overall user habits over days and hours, rather than the more granular minute-by-minute observations recorded by the fitness device. <br><br>
+For the most straightforward analysis, data was arranged according to granularity. Daily data (activity level, daily steps, sleep hours) was compiled together and hourly data was analyzed separately to assess trends across users throughout the day. This analysis will focus on overall user habits over days and hours, rather than the more granular minute-by-minute observations recorded by the fitness device. <br><br>
 
 Data was inspected, organized, and cleaned in Microsoft Excel before being loaded into Tableau for visualization. Additional analysis was carried out with BigQuery SQL. 
 
